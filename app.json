@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ui-test",
+    "slug": "ui-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ui-test"
+}
